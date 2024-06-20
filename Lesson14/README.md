@@ -701,6 +701,7 @@ public class SlotThread extends Thread {
 
 ### 実行結果
 * プログラム起動時 => スタートボタンを押した直後 => 3つのボタンを押した直後
+
 <img src="images/J14_2_1.png" alt="" width="33%"><img src="images/J14_2_2.png" alt="" width="33%"><img src="images/J14_2_3.png" alt="" width="33%">
 
 <img src="images/J14_2_result.gif" alt="" width="60%">
